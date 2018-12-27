@@ -1,5 +1,5 @@
 import React from 'react'
-import { HeaderWrapper, Title} from './indexStyle'
+import { HeaderWrapper, Title} from './style'
 export default class Index extends React.Component{
   render(){
     return(
