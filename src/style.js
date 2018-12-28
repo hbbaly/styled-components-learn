@@ -1,5 +1,6 @@
 
 /*
+* this limitation is removed and things like CSS resets or base stylesheets can be applied.
 * 设置全局样式
 * 这里放的是reset.css
  */

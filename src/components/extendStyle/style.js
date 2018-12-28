@@ -23,3 +23,7 @@ export const Button = styled.button`
 export const ExtendButton = styled(Button)`
   color:#f60
 `
+
+// In some cases you might want to change which tag or component a styled component renders.
+
+//  You can use the "as" polymorphic prop to dynamically swap out the element that receives the styles you wrote:
